@@ -1,1 +1,1 @@
-# machine-learning-course
+IDS705 Machine Learning
